@@ -15,3 +15,6 @@ Peach
 Plum
 Strawberry
 Watermelon
+
+# Dataset Command 
+kaggle datasets download -d nourabdoun/fruits-detection-12-categories
